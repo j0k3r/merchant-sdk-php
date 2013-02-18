@@ -192,4 +192,4 @@ IPN variables
 
 IPN Reference
 -------------
-* You can refer IPN getting started guide at [https://www.x.com/developers/paypal/documentation-tools/ipn/gs_IPN].
+* You can refer IPN getting started guide at https://www.x.com/developers/paypal/documentation-tools/ipn/gs_IPN.
